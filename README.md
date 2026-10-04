@@ -1,9 +1,9 @@
-# Package name
+# Meta-abduction
 <pre>
-  pip install package-name
+  pip install meta-abduction
 </pre>
 Then:
 ```Python
   # Python
-  import package_name
+  import meta_abduction
 ```
